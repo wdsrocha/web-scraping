@@ -1,0 +1,47 @@
+cod,nome,prereq,equiv,periodo
+ESTCMP001,Introdução a Computação,,ESTSIV004,1
+ESTCMP009,Introdução a Programação de Computadores,,"ESTSIV006,ESTTPD108,ESTECP001",1
+ESTCMP028,Matemática Básica,,ESTSIV007,1
+ESTCMP050,"Computação, Ética, Homem e Sociedade",,"ESTSIV001,ESTBAS022",1
+ESTBAS004,Introdução às Ciências do Ambiente,,ESTSIV002,1
+ESTBAS011,Introdução à Administração,,ESTSIV003,1
+ESTBAS017,Introdução à Economia,,ESTSIV005,1
+ESTCMP002,Organização e Arquitetura de Computadores,ESTCMP001,"ESTSIV011,ESTLIN325,ESTECP008,EST0244,ESTTPD244",2
+ESTCMP010,Programação de Computadores e Algoritmos,ESTCMP009,"ESTSIV008,ESTTPD245,ESTTPD301,ESTECP002",2
+ESTCMP029,Matemática Discreta,ESTCMP028,"ESTSIV010,ESTECP004",2
+ESTCMP060,Laboratório de Programação de Computadores I,ESTCMP009,"ESTSIV009,ESTBAS049,ESTTPD401,ESTTPD319",2
+ESTCMP100,Fundamentos de Sistemas de Informação,ESTCMP001,"ESTSIV012,ESTTPD432",2
+ESTBAS001,Álgebra Linear I,ESTCMP028,ESTTPD201,2
+ESTBAS002,Cálculo I,ESTCMP028,ESTBAS037,2
+ESTCMP007,Sistemas Operacionais I,ESTCMP001,"ESTECP009,ESTTPD316",3
+ESTCMP011,Algoritmos e Estrutura de Dados I,ESTCMP010,ESTSIV013,3
+ESTCMP021,Projeto de Programas,ESTCMP010,ESTSIV014,3
+ESTCMP030,Fundamentos Teóricos da Computação,ESTCMP029,"ESTSIV015,ESTECP006",3
+ESTCMP034,Empreendedorismo Digital I,"ESTBAS011,ESTBAS017","ESTBAS035,ESTECP128",3
+ESTBAS050,Probabilidade e Estatística,ESTBAS002,,3
+ESTCMP005,Paradigmas de Linguagens de Programação,ESTCMP011,"ESTSIV021,ESTECP016",4
+ESTCMP012,Algoritmos e Estrutura de Dados II,ESTCMP011,ESTSIV018,4
+ESTCMP016,Redes de Computadores I,ESTCMP007,ESTECP014,4
+ESTCMP022,Banco de Dados I,ESTCMP011,"ESTSIV020,ESTECP010",4
+ESTCMP024,Modelagem e Projeto de Sistemas,ESTCMP021,ESTSIV019,4
+ESTCMP035,Empreendedorismo Digital II,ESTCMP034,,4
+ESTCMP013,Projeto e Análise de Algoritmos,ESTCMP012,"ESTSIV024,ESTECP012",5
+ESTCMP020,Sistemas Paralelos e Distribuidos,ESTCMP016,"ESTSIV029,ESTECP013",5
+ESTCMP023,Banco de Dados II,ESTCMP022,"ESTSIV027,ESTTPD558",5
+ESTCMP025,Engenharia de Software,ESTCMP024,ESTECP015,5
+ESTCMP027,Interação Homem - Computador,ESTCMP024,ESTECP025,5
+ESTCMP101,Governança de Tecnologia da Informação e Comunicação,ESTCMP100,ESTSIV028,5
+ESTCMP018,Segurança de Informação I,ESTCMP016,,6
+ESTCMP026,Tópicos Especiais em Engenharia de Software,ESTCMP024,ESTSIV034,6
+ESTCMP031,Inteligência Artificial I,ESTCMP030,ESTECP022,6
+ESTCMP038,Sistemas Integrados de Hardware e Software I,ESTCMP016,ESTSIV030,6
+ESTCMP051,Metodologia Ciêntifica para Computação,ESTCMP050,ESTSIV035,6
+ESTCMP064,Oficina de Desenvolvimento de Sistemas I,ESTCMP024,ESTSIV033,6
+ESTCMP052,Trabalho de Conclusão de Curso I,"ESTCMP018,ESTCMP026,ESTCMP031,ESTCMP038,ESTCMP051,ESTCMP064",,7
+ESTCMP065,Oficina de Desenvolvimento de Sistemas II,ESTCMP064,,7
+ESTCMP068,Tópicos Especiais para Computação I,ESTCMP051,,7
+ESTCMP080,Estágio Supervisionado em Sistemas de Informação I,"ESTCMP018,ESTCMP026,ESTCMP031,ESTCMP038,ESTCMP051,ESTCMP064",,7
+ESTCMP053,Trabalho de Conclusão de Curso II,ESTCMP052,,8
+ESTCMP066,Oficina de Desenvolvimento de Sistemas III,ESTCMP065,,8
+ESTCMP069,Tópicos Especiais para Computação II,ESTCMP051,,8
+ESTCMP081,Estágio Supervisionado em Sistemas de Informação II,ESTCMP080,,8
