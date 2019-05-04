@@ -1,2 +1,3 @@
 # web-scraping
-Aprendendo Web Scraping em Python utilizando requests e bs4
+
+Learning Web Scraping with Python, requests and bs4
